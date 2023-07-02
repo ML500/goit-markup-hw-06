@@ -257,7 +257,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/office-mob.jpg);
+    url(../images/officemob.jpg);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
@@ -273,7 +273,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/office-mob2x.jpg);
+      url(../images/officemob2x.jpg);
   }
 }
 
